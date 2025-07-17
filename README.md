@@ -1,1 +1,2 @@
 # docker-b2
+ENTRYPOINTとCMDの2パターンでDockerfileを作成し、それぞれで引数指定時の挙動を比較検証する
